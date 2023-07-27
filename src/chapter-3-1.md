@@ -48,7 +48,7 @@ Logical thinkers understand the value of time and employ effective time manageme
 
 Successful logical thinkers possess strong decision-making skills. They carefully evaluate options, weigh pros and cons, consider potential consequences, and make informed choices based on logical reasoning. This ability to make sound decisions efficiently contributes to enhanced productivity and effective leadership.
 
-10. Resilience and Adaptability
+10\. Resilience and Adaptability
 -------------------------------
 
 Logical thinkers exhibit resilience and adaptability in the face of challenges. They embrace setbacks as learning opportunities, adjust their strategies when necessary, and remain open to new approaches. This flexibility allows them to overcome obstacles, optimize processes, and continually improve their productivity.
