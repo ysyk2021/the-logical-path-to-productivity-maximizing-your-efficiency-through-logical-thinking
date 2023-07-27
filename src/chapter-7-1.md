@@ -1,4 +1,4 @@
-Chapter 6: Importance of Data in Productivity
+Importance of Data in Productivity
 =============================================
 
 In this chapter, we delve into the significance of data in productivity and explore how logical thinking can help individuals harness the power of data to enhance efficiency. By understanding the importance of data and leveraging it effectively, individuals can make informed decisions, optimize processes, and maximize their productivity.

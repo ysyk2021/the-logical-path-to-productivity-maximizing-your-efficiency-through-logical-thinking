@@ -1,4 +1,4 @@
-Chapter 7: Techniques for Using Data to Inform Productivity Decisions
+Techniques for Using Data to Inform Productivity Decisions
 =====================================================================
 
 In this chapter, we explore various techniques for utilizing data to inform productivity decisions. By applying logical thinking and employing these techniques, individuals can effectively analyze data, draw insights, and make informed decisions that optimize productivity.

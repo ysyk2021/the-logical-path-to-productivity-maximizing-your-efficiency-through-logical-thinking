@@ -1,4 +1,4 @@
-Chapter 6: Creating Logical Workflows and Systems
+Creating Logical Workflows and Systems
 =================================================
 
 In this chapter, we explore the importance of creating logical workflows and systems to maximize productivity through a structured and organized approach. We delve into the principles and strategies behind developing efficient processes and systems driven by logical thinking.

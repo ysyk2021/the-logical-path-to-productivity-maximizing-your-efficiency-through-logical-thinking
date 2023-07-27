@@ -1,4 +1,4 @@
-Chapter 2: Definition of Logical Thinking
+Definition of Logical Thinking
 =========================================
 
 In this chapter, we explore the concept and definition of logical thinking in the context of maximizing productivity. We delve into the characteristics, principles, and strategies behind logical thinking and its impact on enhancing efficiency and effectiveness.
