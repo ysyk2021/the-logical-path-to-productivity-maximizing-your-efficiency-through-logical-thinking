@@ -14,8 +14,6 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 
 
 
-Sure, here are 20 Amazon search keywords related to "The Logical Path to Productivity: Maximizing Your Efficiency Through Logical Thinking":
-
 1. Productivity
 2. Time management
 3. Efficiency
