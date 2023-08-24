@@ -1,5 +1,3 @@
-Chapter 8: Overcoming Obstacles to Productivity with Logical Thinking
-=====================================================================
 
 Productivity can be hindered by a variety of obstacles, both internal and external. In this chapter, we will explore common obstacles to productivity, strategies for overcoming these obstacles using logical thinking, and tips for maintaining a logical thinking mindset for productivity.
 

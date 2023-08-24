@@ -1,5 +1,3 @@
-Chapter 6: Leveraging Technology for Productivity with Logical Thinking
-=======================================================================
 
 Technology has become an essential component of productivity in today's world. By leveraging technology effectively, individuals can achieve their goals more efficiently and effectively. In this chapter, we will explore the importance of technology in productivity and strategies for leveraging technology for productivity using logical thinking.
 

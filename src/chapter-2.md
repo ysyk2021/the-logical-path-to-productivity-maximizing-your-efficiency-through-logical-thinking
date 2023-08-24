@@ -1,5 +1,3 @@
-Chapter 2: Understanding Logical Thinking
-=========================================
 
 Logical thinking is a critical skill for problem-solving and decision-making. In this chapter, we will explore the definition of logical thinking, common misconceptions about logical thinking, and the benefits of applying logical thinking to productivity.
 

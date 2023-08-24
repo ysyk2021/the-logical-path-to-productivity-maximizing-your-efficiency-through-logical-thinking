@@ -1,5 +1,3 @@
-Overcoming Procrastination Using Logical Thinking
-============================================================
 
 In this chapter, we explore the detrimental effects of procrastination on productivity and discuss how logical thinking can be employed to overcome this common challenge. By applying logical thinking principles and strategies, individuals can break free from the grip of procrastination and maximize their efficiency.
 

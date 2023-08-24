@@ -1,5 +1,3 @@
-Chapter 5: Managing Time with Logical Thinking
-==============================================
 
 Time management is a crucial aspect of productivity, and logical thinking can be applied to manage time effectively. In this chapter, we will explore techniques for time management using logical thinking, prioritization based on logic, and overcoming procrastination using logical thinking.
 

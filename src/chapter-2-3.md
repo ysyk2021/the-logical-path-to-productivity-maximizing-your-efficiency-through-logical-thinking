@@ -1,5 +1,3 @@
-Benefits of Applying Logical Thinking to Productivity
-================================================================================================
 
 Logical thinking is a critical skill for problem-solving and decision-making, and it has several benefits when applied to productivity. In this chapter, we will explore the benefits of applying logical thinking to productivity.
 

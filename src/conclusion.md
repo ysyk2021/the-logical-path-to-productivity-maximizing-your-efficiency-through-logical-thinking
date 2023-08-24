@@ -1,4 +1,4 @@
-# Conclusion
+
 
 In this book, we have explored the principles of logical thinking and how they can be applied to maximize productivity. Here is a summary of the key points:
 

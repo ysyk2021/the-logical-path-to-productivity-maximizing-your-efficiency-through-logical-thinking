@@ -1,5 +1,3 @@
-Common Obstacles to Productivity
-=======================================================================================================
 
 Productivity can be hindered by a variety of obstacles, both internal and external. In this chapter, we will explore common obstacles to productivity and how to overcome them using logical thinking.
 

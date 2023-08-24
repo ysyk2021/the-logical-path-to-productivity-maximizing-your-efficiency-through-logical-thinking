@@ -1,5 +1,3 @@
-Chapter 4: Techniques for Applying Logical Thinking to Productivity
-===================================================================
 
 Logical thinking can be applied to improve productivity by analyzing tasks and processes, identifying inefficiencies and bottlenecks, and creating logical workflows and systems. In this chapter, we will explore these techniques in more detail.
 

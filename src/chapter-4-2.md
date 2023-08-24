@@ -1,5 +1,3 @@
-Identifying Inefficiencies and Bottlenecks
-===============================================================================================================
 
 Logical thinking can be applied to productivity by identifying inefficiencies and bottlenecks. In this chapter, we will explore techniques for identifying inefficiencies and bottlenecks to improve productivity.
 

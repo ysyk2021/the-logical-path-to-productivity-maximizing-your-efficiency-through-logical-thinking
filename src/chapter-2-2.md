@@ -1,5 +1,3 @@
-Common Misconceptions about Logical Thinking
-=======================================================
 
 In this chapter, we address common misconceptions surrounding logical thinking and explore the truth behind these misconceptions. By debunking these misunderstandings, we aim to provide a clearer understanding of logical thinking and its role in maximizing productivity.
 

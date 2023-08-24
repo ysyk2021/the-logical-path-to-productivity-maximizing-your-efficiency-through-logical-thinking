@@ -1,5 +1,3 @@
-Techniques for Time Management Using Logical Thinking
-=====================================================================================================
 
 Effective time management is essential to productivity and can be achieved through logical thinking. In this chapter, we will explore techniques for time management using logical thinking.
 

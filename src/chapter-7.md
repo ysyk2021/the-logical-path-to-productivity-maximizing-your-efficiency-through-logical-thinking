@@ -1,5 +1,3 @@
-Chapter 7: Using Data for Productivity
-======================================
 
 In this chapter, we will explore the importance of using data for productivity. We will discuss techniques for using data to inform productivity decisions and provide examples of individuals who have successfully used data for productivity through logical thinking.
 

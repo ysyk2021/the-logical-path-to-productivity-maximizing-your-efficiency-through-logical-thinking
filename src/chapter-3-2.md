@@ -1,5 +1,3 @@
-Techniques for Developing a Logical Mindset
-====================================================================================
 
 Developing a logical mindset is critical to increasing productivity and efficiency. In this chapter, we will explore techniques for developing a logical mindset.
 
